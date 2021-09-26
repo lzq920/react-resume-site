@@ -4,7 +4,7 @@
 
 我们希望帮助你 **「以最简单的方式来写好简历，只需专注于自身的内容而无需关注排版」**
 
-立即体验 👉  https://resume.mdedit.online 
+立即体验 👉  https://www.mujicv.com
 
 # 功能特点
 
@@ -25,6 +25,14 @@
 - 📎 证件照位置及大小可修改，打破传统模板约束
 
 - 🥁 支持导入导出Markdown，随时随地可编写
+
+# 模板展示
+
+![image](https://user-images.githubusercontent.com/12070073/134211577-ce58db6c-bfde-4af9-b73a-a5948e98481a.png)
+
+![image](https://user-images.githubusercontent.com/12070073/134211433-72dfbd88-ebc2-4fb1-bb35-675a624dbfce.png)
+
+![image](https://user-images.githubusercontent.com/12070073/134211967-9457fbb0-67b2-4f5d-b3b1-41cbc9b74532.png)
 
 
 ## 开始使用
@@ -58,11 +66,11 @@ $ yarn install && yarn start
 
 微信群（ 技术客服微信: qiufengblue ）
 
-<img src="https://user-images.githubusercontent.com/12070073/132623017-1339eedd-7880-488f-ba45-659fce2e8784.png" width="300" />
+<img src="https://user-images.githubusercontent.com/12070073/134554185-e650e9bd-cde1-4182-9fbe-1ad3f60ef6e1.png" width="300" />
+
 
 qq群
 
-<img src="https://s3.qiufengh.com/muji/qq-group.png" width="300" />
-
+<img src="https://s3.qiufeng.blue/muji/qq-group.png" width="300" />
 
 
